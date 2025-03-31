@@ -54,30 +54,6 @@ NEOCLARA-II/
 
 ---
 
-## Installation
-
-To get started with the project, clone the repository:
-
-```
-git clone https://github.com/your-username/NEOCLARA-II.git
-cd NEOCLARA-II
-```
-
-Create and activate a virtual environment (optional but recommended):
-
-```
-python3 -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-```
-
-Install the required packages:
-
-```
-pip install -r requirements.txt
-```
-
----
-
 ## Usage
 
 1. **Data Preprocessing**: Prepare and clean your dataset. Ensure it is ready for model training.
